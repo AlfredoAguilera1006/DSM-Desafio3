@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecursosAprendizajeApp</string>
+
+    <string name="agregar_recurso">Agregar Nuevo Recurso</string>
+
+    <string name="imagen_recurso">Imagen del Recurso</string>
+
+    <string name="label_titulo">Texto del Título</string>
+
+    <string name="label_descripcion">Texto de la Descripción</string>
+
+    <string name="label_tipo">Tipo de Recurso</string>
+
+    <string name="label_enlace">Enlace</string>
+
+    <string name="label_imagen_url">Enlace de la Imagen</string>
+
+    <string name="btn_guardar_recurso">Guardar Recurso</string>
+
+</resources>
